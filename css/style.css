@@ -2,6 +2,10 @@ body {
 	background-color: purple;
 }
 
-h1, p {
+h1 {
+	color: gold;
+}
+
+p {
 	color: gold;
 }
