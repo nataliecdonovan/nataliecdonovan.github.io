@@ -2,50 +2,50 @@ body {
 	background-color:rgb(132, 151, 255);
 }
 
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
-h1 {
+
+#hero { 
 	text-align: center;
 	color: rgb(246, 247, 255);
 	font-family: "Helvetica", sans-serif;
 	font-weight: bold; 
-	font-size: 38px;
-}
+	font-size: 30px;
 
-h2 {
+ }
+
+#about {
 	color: rgb(246, 247, 255);
 	font-family: "Helvetica", sans-serif;
-	font-weight:normal;
+	font-weight: normal;
 	font-size: 20px;
 	text-align: center;
-
 }
 
-p, ul {
+#details {
 	color: rgb(246, 247, 255);
 	font-family: "Helvetica", sans-serif;
-	font-weight:normal;
-	font-size: 18px;
-
-}
-
-h3 {
-	color: rgb(246, 247, 255);
-	font-family: "Helvetica", sans-serif;
-	font-weight:normal;
+	font-weight: normal;
 	font-size: 20px;
 }
 
-h4 {
+#clothes {
 	color: rgb(246, 247, 255);
 	font-family: "Helvetica", sans-serif;
-	font-weight:normal;
-	font-size: 20px;
-	text-align: center;
-	position: relative;
+	font-weight: normal;
+	font-size: 16px;
+}
+
+#pagination {
+	color: rgb(246, 247, 255);
+	font-family: "Helvetica", sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	text-align: center
 }
 
