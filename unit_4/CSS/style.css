@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700i');
+@import url('https://fonts.googleapis.com/css?family=Arvo|Open+Sans:700i');
+
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #648FE8;
+}
+
+h1{
+	font-family: font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	font-size: 80px;
+	text-align: center;
+	color: #cfd8e8;
+}
+
+h2, h3, p{ 
+	font-family: font-family: 'Arvo', serif;
+	color: #cfd8e8;
+}
+
+h2, p{
+	font-size: 2em;
+	margin: 50px 150px 150px;
+}
+
+h3{
+	font-size: 2em;
+	margin: 50px 0 0;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 400px;
+}
+
+.categories{
+	width: 30em;
+	margin: 2em auto;
+}
+
+#lander{
+	margin: 150px 0 0;;
+}
