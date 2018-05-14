@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700i');
+@import url('https://fonts.googleapis.com/css?family=Arvo|Open+Sans:700i');
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#article{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 400px;
+}
+
+.categories{
+	width: 30em;
+	margin: 2em auto;
+}
+
+#nav{
+	background-color: #E8C66A;
+	margin: 150px 0 0;
+}
+
+#footer{
+	background-color: #FF957E;
+}
